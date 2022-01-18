@@ -1,0 +1,30 @@
+[
+  {
+    "id": "CVE-2021-45460",
+    "score": "3.4",
+    "vector": "AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:L/E:P/RL:O/RC:C",
+    "publication_date": "2022-01-11",
+    "title": "Unquoted Search Path Vulnerability in SICAM PQ Analyzer"
+  },
+  {
+    "id": "CVE-2021-45033",
+    "score": "9.9",
+    "vector": "AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C",
+    "publication_date": "2022-01-11",
+    "title": "Multiple Vulnerabilities in SICAM A8000"
+  },
+  {
+    "id": "CVE-2021-45034",
+    "score": "5.3",
+    "vector": "AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C",
+    "publication_date": "2022-01-11",
+    "title": "Multiple Vulnerabilities in SICAM A8000"
+  },
+  {
+    "id": "CVE-2021-41769",
+    "score": "6.5",
+    "vector": "AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:P/RL:O/RC:C",
+    "publication_date": "2022-01-11",
+    "title": "Information Disclosure Vulnerability in SIPROTEC 5 Devices"
+  }
+]
